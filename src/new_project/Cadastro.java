@@ -8,11 +8,11 @@ package new_project;
  */
 public class Cadastro {
 	
-	private String codigo;
-	private int telefone;	
-	private String nome;
-	private String email;
-	private String cargo;
+	public String codigo;
+	public int telefone;	
+	public String nome;
+	public String email;
+	public String cargo;
 	public String getCodigo() {
 		return codigo;
 	}
