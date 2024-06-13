@@ -8,7 +8,7 @@ package new_project;
  */
 public class Vaga {
 	
-	private String codigo;
+	public String codigo;
 	
 	
 
