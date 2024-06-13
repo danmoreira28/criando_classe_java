@@ -11,6 +11,6 @@ public class EmpresaX {
 	/**
 	 * @param args
 	 */
-	private String vaga;
-	private String codigo;
+	public String vaga;
+	public String codigo;
 }
