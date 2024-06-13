@@ -8,12 +8,12 @@ package new_project;
  */
 public class Cadastro {
 	
-	public String codigo;
-	public int telefone;	
-	public String nome;
-	public String email;
-	public String cargo;
-	public String getCodigo() {
+	private String codigo;
+	private int telefone;	
+	private String nome;
+	private String email;
+	private String cargo;
+	private String getCodigo() {
 		return codigo;
 	}
 	public void setCodigo(String codigo) {
